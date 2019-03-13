@@ -12,8 +12,8 @@ module.exports = (app) => {
 
   const webhook = new WebhookClient({
     channel: {
-      url: 'https://botv2iad1I0100H203896bots-mpaasocimt.botmxp.ocp.oraclecloud.com:443/connectors/v1/tenants/idcs-100b89d671b54afca3069fe360e4bad4/listeners/webhook/channels/64a5cf40-8512-44cf-8488-5d590b79338f',
-      secret: 'yQNk7P7gnBid8waev5b7HSYXhQiHNx4p',
+      url: 'https://botv2iad1I0100H203896bots-mpaasocimt.botmxp.ocp.oraclecloud.com:443/connectors/v1/tenants/idcs-100b89d671b54afca3069fe360e4bad4/listeners/webhook/channels/51e9e444-6e51-4df6-bf7e-86de2797e989',
+      secret: 'xWplksxBiUEnIlED6uvCZ0BYv3wK7cEL',
     }
   });
 
